@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622228436764",
+    "project_id": "firelocation-e00af",
+    "storage_bucket": "firelocation-e00af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622228436764:android:c7e6722b530beca1ef2cd9",
+        "android_client_info": {
+          "package_name": "uz.humoyun.firebasemap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8Cb6KEp1ezX2-EGfpoHxV-UcZ9lL4E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
